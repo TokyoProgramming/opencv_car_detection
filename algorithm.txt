@@ -1,0 +1,11 @@
+Computer Vision
+
+1. img => black && white 
+
+2. Train the Algorithm To Detect Cars 
+   => square 
+
+3. Haar Features Algorithm
+
+
+1 pip install opencv-python
